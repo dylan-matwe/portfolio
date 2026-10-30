@@ -1,8 +1,8 @@
 # Dylan Matwe | Engineering Portfolio
 
-[**Open the portfolio (PDF)**](https://github.com/dylan-matwe/portfolio/blob/main/portfolio_dylan_matwe.pdf)
+[**Portfolio (PDF)**](https://github.com/dylan-matwe/portfolio/blob/main/portfolio_dylan_matwe.pdf)
 
-Mechanical Engineering (Aerospace minor), University of Calgary. This repository hosts my engineering portfolio as a single PDF. It's five pages and covers:
+Mechanical Engineering (Aerospace minor), University of Calgary. This repository hosts my engineering portfolio as a single PDF.
 
 - **Formula SAE Electric (UCalgary Racing):** full-car aerodynamics package as team lead, composite aero manufacturing, rear wing upgrade, and a DRS concept
 - **Hydrogen flashback CFD validation:** summer research, University of Calgary
